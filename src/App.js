@@ -2,7 +2,7 @@
 import './App.css';
 import Intro from './componen/Intro';
 import NavigationBar from './componen/NavigationsBar';
-import Page from './componen/page';
+import Page from './componen/Page';
 import "./style/Landingpage.css"
 import { BrowserRouter,Routes, Route } from 'react-router-dom';
 
